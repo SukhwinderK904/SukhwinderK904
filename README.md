@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SukhwinderK904
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C#, ASP.Net, React 
+- 🌱 I’m currently part time intern at MVP Studio as a Software Developer (C#, ASP.Net, React) 
 - 💞️ I’m looking to collaborate on different project where I could use my knowledge and skills.
 - 📫 How to reach me - You can reach me by my email i.e. sukhwinderanu@gmail.com
 
